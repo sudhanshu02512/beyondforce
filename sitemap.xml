@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home -->
+  <url>
+    <loc>https://beyondforce.org/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Apex -->
+  <url><loc>https://beyondforce.org/docs/apex/introduction</loc></url>
+  <url><loc>https://beyondforce.org/docs/apex/working-of-apex</loc></url>
+  <url><loc>https://beyondforce.org/docs/apex/apex-classes</loc></url>
+  <url><loc>https://beyondforce.org/docs/apex/asynchronous-apex</loc></url>
+  <url><loc>https://beyondforce.org/docs/apex/asynchronous-apex/future-methods</loc></url>
+
+  <!-- Lightning Web Components -->
+  <url><loc>https://beyondforce.org/docs/lightning-web-components</loc></url>
+
+</urlset>
